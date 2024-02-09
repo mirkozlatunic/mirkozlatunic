@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mirko Zlatunic</h1>
 <h3 align="center">A passionate frontend developer from the USA</h3>
 
-- 🌱 I’m currently learning **Full Stack Development at Practicum**
+- 🌱 I’m currently learning **Full Stack Development at TripleTen**
 
 - 👯 I’m looking to collaborate with **all kind of Developers**
 
-- ⚡ Fun fact **I love to workout (CrossFit) and enjoy the Californian sun**
+- ⚡ Fun fact **I love to be active (in the gym, hiking as well as nice walks at the beach) and enjoy the Californian sun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

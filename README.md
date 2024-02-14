@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mirkozlatunic" target="blank">
+<a href="https://www.linkedin.com/in/mirkozlatunic" target="blank" text-decoration="none">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 &nbsp;

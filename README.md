@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/mirkozlatunic" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+&nbsp;
 <a href="https://twitter.com/mirko_zlat80303" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
@@ -28,4 +29,6 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkozlatunic&show_icons=true&locale=en&layout=compact" alt="mirkozlatunic" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirkozlatunic&show_icons=true&locale=en" alt="mirkozlatunic" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkozlatunic&show_icons=true&locale=en&layout=compact" alt="mirkozlatunic" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirkozlatunic&show_icons=true&locale=en" alt="mirkozlatunic" /></p>

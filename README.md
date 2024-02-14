@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mirkozlatunic" target="blank">
+<a href="https://www.linkedin.com/in/mirkozlatunic" target="blank" text-decoration="none">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mirkozlatunic" height="30" width="40" />
 </a>
 <a href="https://twitter.com/mirko_zlat80303" target="blank">

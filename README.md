@@ -10,10 +10,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mirkozlatunic" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://twitter.com/mirko_zlat80303" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-tile.svg" alt="mirkozlatunic" height="30" width="40" /></a>
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

@@ -9,8 +9,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/mirkozlatunic">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40" />
+  </a>
+   <a href="https://www.twitter.com/mirko_zlat80303">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" />
+   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

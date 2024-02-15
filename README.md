@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<img[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)(https://twitter.com/mirko_zlat80303)] />
+<img src="[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)(https://twitter.com/mirko_zlat80303)]" width="40" height="40"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

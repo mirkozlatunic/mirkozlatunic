@@ -9,12 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mirkozlatunic" target="blank" style="text-decoration:none">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-&nbsp;
-<a href="https://twitter.com/mirko_zlat80303" target="blank" style="text-decoration:none">
-    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="30" width="40" /></a>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)(https://twitter.com/mirko_zlat80303)]
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

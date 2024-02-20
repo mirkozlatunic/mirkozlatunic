@@ -13,7 +13,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40" />
   </a>&nbsp;
    <a href="m.zlatunic@gmail.com">
-     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg.svg" alt="gmail" width="40" height="40" />
+     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" />
    </a>
 </p>
 

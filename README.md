@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirko Zlatunic</h1>
 
-[![Watch the video](https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/bd78f697-6784-4211-a87c-4e8474f1d86c)
+<p align="center">[![introduction Video](https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/bd78f697-6784-4211-a87c-4e8474f1d86c)</p>
 
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 

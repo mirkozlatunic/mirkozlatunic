@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mirko Zlatunic</h1>
+
+<h2 align="center">Introduction video</h2>
+https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/bd78f697-6784-4211-a87c-4e8474f1d86c
+
+
+
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 
 - 🌱 I’m currently learning **Full Stack Development at TripleTen**

@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **all kind of Developers**
 
-- ⚡ Fun fact **I love to be active (in the gym, hiking as well as nice walks at the beach) and enjoy the Californian sun**
+- ⚡ Fun fact **I love to be active (in the gym, hiking, and nice walks at the beach) and enjoy the Californian sun. I am a big car enthusiast with a love for performance cars.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

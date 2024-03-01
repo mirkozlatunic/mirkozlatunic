@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 
-- 🌱 I’m currently learning **Full Stack Development at TripleTen**
+- 🌱 I’m a **Full Stack Software Engineer**
 
 - 👯 I’m looking to collaborate with **all kind of Developers**
 

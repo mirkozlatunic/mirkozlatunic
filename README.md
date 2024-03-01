@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 
-- 🌱 I’m a **Full Stack Software Engineer**
+- 🌱 I’m a **Full Stack Software Engineer with experience in Project Management, Leadership and Supply Chain**
 
 - 👯 I’m looking to collaborate with **all kind of Developers**
 

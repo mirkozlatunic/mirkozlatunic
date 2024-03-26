@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mirko Zlatunic</h1>
+<div align="center">
+<h1>Hi 👋, I'm Mirko Zlatunic</h1>
 
 [![image](https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/3243be9c-388c-4be5-b173-0871f523c779)
 ](https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/bd78f697-6784-4211-a87c-4e8474f1d86c)
+
+</div>
 
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 

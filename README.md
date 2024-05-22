@@ -28,8 +28,3 @@
     <img src="https://skillicons.dev/icons?i=babel,css,express,figma,git,html,js,materialui,mongodb,nginx,nodejs,postman,react,threejs," />
   </a>
 </p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkozlatunic&show_icons=true&locale=en&layout=compact" alt="mirkozlatunic" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirkozlatunic&show_icons=true&locale=en" alt="mirkozlatunic" /></p>
-</div>

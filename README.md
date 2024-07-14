@@ -22,9 +22,10 @@
   </a>
 </p>
 
+
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,css,express,figma,git,html,js,materialui,mongodb,nginx,nodejs,postman,react,threejs," />
+    <img src="https://skillicons.dev/icons?i=html,css,babel,tailwindcss,js,threejs,react,git,figma,materialui,mongodb,express,nginx,nodejs,postman,redux,npm," />
   </a>
 </p>

@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **all kind of Developers**
 
-- ⚡ Fun fact **I love to be active (in the gym, hiking, and nice walks at the beach) and enjoy the Californian sun. I am a big car enthusiast with a love for performance cars.**
+- ⚡ Fun fact **I love to be active (working out with the CrossFit community or biking with the Peleton Family). I am a big car enthusiast with a love for performance cars (currenlty owning a Mercedes C43 AMG.**
 
 <div align="center">
 <h3>Connect with me via:</h3>

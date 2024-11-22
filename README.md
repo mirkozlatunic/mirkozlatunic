@@ -17,7 +17,7 @@
 <div align="center">
 <h3>Connect with me via:</h3>
 <p align="center">
-  <a href="https://https://discord.com/channels/@mirkozlatunic">
+  <a href="https://discord.com/channels/@mirkozlatunic">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://m.zlatunic@gmail.com">

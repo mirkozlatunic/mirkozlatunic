@@ -17,8 +17,14 @@
 <div align="center">
 <h3>Connect with me via:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin" />
+  <a href="https://https://discord.com/channels/@mirkozlatunic">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://m.zlatunic@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mirkozlatunic/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
@@ -29,3 +35,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,babel,tailwindcss,js,threejs,typescript,react,git,figma,materialui,mongodb,express,nginx,nodejs,postman,redux,npm,next,prisma" />
   </a>
 </p>
+</div>

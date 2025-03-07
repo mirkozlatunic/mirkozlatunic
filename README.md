@@ -1,9 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Mirko Zlatunic</h1>
 
-[![image](https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/3243be9c-388c-4be5-b173-0871f523c779)
-](https://github.com/mirkozlatunic/mirkozlatunic/assets/110959892/bd78f697-6784-4211-a87c-4e8474f1d86c)
-
 </div>
 
 <h3 align="center">A passionate full-stack developer from the USA</h3>
@@ -12,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **all kind of Developers**
 
-- ⚡ Fun fact **I love to be active (working out with the CrossFit community or biking with the Peleton Family). I am a big car enthusiast with a love for performance cars (currenlty owning a Mercedes C43 AMG).**
+- ⚡ Fun fact **I move from europe to the USA and been living in the sunny California. I love to do all kinds of bodybuilding exercises.**
 
 <div align="center">
 <h3>Connect with me via:</h3>
